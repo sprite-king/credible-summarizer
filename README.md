@@ -62,6 +62,3 @@ credible-summarizer/
 - TextRank 选取 Top‑K 作为摘要要点
 - 要点与原文句相似度 Top‑N 作为引用证据
 - 相似度阈值与差距阈值判断不确定性
-
-## 许可
-MIT
